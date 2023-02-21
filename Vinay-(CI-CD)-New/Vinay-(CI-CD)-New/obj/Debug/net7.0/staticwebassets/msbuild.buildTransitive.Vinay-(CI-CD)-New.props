@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Vinay-(CI-CD)-New.props" />
+</Project>

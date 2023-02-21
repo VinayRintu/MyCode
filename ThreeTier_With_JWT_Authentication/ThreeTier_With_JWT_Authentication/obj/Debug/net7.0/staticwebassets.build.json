@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gX3zhQjZ2J0pqWSbcK6TIjn35FcizMddvwKWemkgJLA=",
+  "Source": "ThreeTier_With_JWT_Authentication",
+  "BasePath": "_content/ThreeTier_With_JWT_Authentication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

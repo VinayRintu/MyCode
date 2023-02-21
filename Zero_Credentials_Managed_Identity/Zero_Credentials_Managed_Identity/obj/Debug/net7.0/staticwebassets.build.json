@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fvNBfNCzgGuGsZeMoUzBnLjJR+rviTzeLPbCPijibzg=",
+  "Source": "Zero_Credentials_Managed_Identity",
+  "BasePath": "_content/Zero_Credentials_Managed_Identity",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

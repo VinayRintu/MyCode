@@ -1,0 +1,15 @@
+C:\AzureDev_Repos\Interns\Vinay\Unit-Testing\Unit-Testing\bin\Debug\net7.0\Unit-Testing.exe
+C:\AzureDev_Repos\Interns\Vinay\Unit-Testing\Unit-Testing\bin\Debug\net7.0\Unit-Testing.deps.json
+C:\AzureDev_Repos\Interns\Vinay\Unit-Testing\Unit-Testing\bin\Debug\net7.0\Unit-Testing.runtimeconfig.json
+C:\AzureDev_Repos\Interns\Vinay\Unit-Testing\Unit-Testing\bin\Debug\net7.0\Unit-Testing.dll
+C:\AzureDev_Repos\Interns\Vinay\Unit-Testing\Unit-Testing\bin\Debug\net7.0\Unit-Testing.pdb
+C:\AzureDev_Repos\Interns\Vinay\Unit-Testing\Unit-Testing\obj\Debug\net7.0\Unit-Testing.csproj.AssemblyReference.cache
+C:\AzureDev_Repos\Interns\Vinay\Unit-Testing\Unit-Testing\obj\Debug\net7.0\Unit-Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\AzureDev_Repos\Interns\Vinay\Unit-Testing\Unit-Testing\obj\Debug\net7.0\Unit-Testing.AssemblyInfoInputs.cache
+C:\AzureDev_Repos\Interns\Vinay\Unit-Testing\Unit-Testing\obj\Debug\net7.0\Unit-Testing.AssemblyInfo.cs
+C:\AzureDev_Repos\Interns\Vinay\Unit-Testing\Unit-Testing\obj\Debug\net7.0\Unit-Testing.csproj.CoreCompileInputs.cache
+C:\AzureDev_Repos\Interns\Vinay\Unit-Testing\Unit-Testing\obj\Debug\net7.0\Unit-Testing.dll
+C:\AzureDev_Repos\Interns\Vinay\Unit-Testing\Unit-Testing\obj\Debug\net7.0\refint\Unit-Testing.dll
+C:\AzureDev_Repos\Interns\Vinay\Unit-Testing\Unit-Testing\obj\Debug\net7.0\Unit-Testing.pdb
+C:\AzureDev_Repos\Interns\Vinay\Unit-Testing\Unit-Testing\obj\Debug\net7.0\Unit-Testing.genruntimeconfig.cache
+C:\AzureDev_Repos\Interns\Vinay\Unit-Testing\Unit-Testing\obj\Debug\net7.0\ref\Unit-Testing.dll

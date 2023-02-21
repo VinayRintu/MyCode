@@ -1,0 +1,12 @@
+C:\AzureDev_Repos\Interns\Vinay\Assignment-Vinay\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\AzureDev_Repos\Interns\Vinay\Assignment-Vinay\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\AzureDev_Repos\Interns\Vinay\Assignment-Vinay\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\AzureDev_Repos\Interns\Vinay\Assignment-Vinay\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\AzureDev_Repos\Interns\Vinay\Assignment-Vinay\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\AzureDev_Repos\Interns\Vinay\Assignment-Vinay\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\AzureDev_Repos\Interns\Vinay\Assignment-Vinay\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\AzureDev_Repos\Interns\Vinay\Assignment-Vinay\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\AzureDev_Repos\Interns\Vinay\Assignment-Vinay\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\AzureDev_Repos\Interns\Vinay\Assignment-Vinay\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\AzureDev_Repos\Interns\Vinay\Assignment-Vinay\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\AzureDev_Repos\Interns\Vinay\Assignment-Vinay\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll

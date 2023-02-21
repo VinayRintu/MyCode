@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WEbApi_One_to_Many_Relational.props" />
+</Project>

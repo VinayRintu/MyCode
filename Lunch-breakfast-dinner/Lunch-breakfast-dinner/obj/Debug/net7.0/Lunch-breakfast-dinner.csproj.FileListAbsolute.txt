@@ -1,0 +1,15 @@
+C:\AzureDev_Repos\Interns\Vinay\Lunch-breakfast-dinner\Lunch-breakfast-dinner\bin\Debug\net7.0\Lunch-breakfast-dinner.exe
+C:\AzureDev_Repos\Interns\Vinay\Lunch-breakfast-dinner\Lunch-breakfast-dinner\bin\Debug\net7.0\Lunch-breakfast-dinner.deps.json
+C:\AzureDev_Repos\Interns\Vinay\Lunch-breakfast-dinner\Lunch-breakfast-dinner\bin\Debug\net7.0\Lunch-breakfast-dinner.runtimeconfig.json
+C:\AzureDev_Repos\Interns\Vinay\Lunch-breakfast-dinner\Lunch-breakfast-dinner\bin\Debug\net7.0\Lunch-breakfast-dinner.dll
+C:\AzureDev_Repos\Interns\Vinay\Lunch-breakfast-dinner\Lunch-breakfast-dinner\bin\Debug\net7.0\Lunch-breakfast-dinner.pdb
+C:\AzureDev_Repos\Interns\Vinay\Lunch-breakfast-dinner\Lunch-breakfast-dinner\obj\Debug\net7.0\Lunch-breakfast-dinner.csproj.AssemblyReference.cache
+C:\AzureDev_Repos\Interns\Vinay\Lunch-breakfast-dinner\Lunch-breakfast-dinner\obj\Debug\net7.0\Lunch-breakfast-dinner.GeneratedMSBuildEditorConfig.editorconfig
+C:\AzureDev_Repos\Interns\Vinay\Lunch-breakfast-dinner\Lunch-breakfast-dinner\obj\Debug\net7.0\Lunch-breakfast-dinner.AssemblyInfoInputs.cache
+C:\AzureDev_Repos\Interns\Vinay\Lunch-breakfast-dinner\Lunch-breakfast-dinner\obj\Debug\net7.0\Lunch-breakfast-dinner.AssemblyInfo.cs
+C:\AzureDev_Repos\Interns\Vinay\Lunch-breakfast-dinner\Lunch-breakfast-dinner\obj\Debug\net7.0\Lunch-breakfast-dinner.csproj.CoreCompileInputs.cache
+C:\AzureDev_Repos\Interns\Vinay\Lunch-breakfast-dinner\Lunch-breakfast-dinner\obj\Debug\net7.0\Lunch-breakfast-dinner.dll
+C:\AzureDev_Repos\Interns\Vinay\Lunch-breakfast-dinner\Lunch-breakfast-dinner\obj\Debug\net7.0\refint\Lunch-breakfast-dinner.dll
+C:\AzureDev_Repos\Interns\Vinay\Lunch-breakfast-dinner\Lunch-breakfast-dinner\obj\Debug\net7.0\Lunch-breakfast-dinner.pdb
+C:\AzureDev_Repos\Interns\Vinay\Lunch-breakfast-dinner\Lunch-breakfast-dinner\obj\Debug\net7.0\Lunch-breakfast-dinner.genruntimeconfig.cache
+C:\AzureDev_Repos\Interns\Vinay\Lunch-breakfast-dinner\Lunch-breakfast-dinner\obj\Debug\net7.0\ref\Lunch-breakfast-dinner.dll

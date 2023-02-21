@@ -1,0 +1,15 @@
+C:\AzureDev_Repos\Interns\Vinay\Movies_Flight\Movies_Flight\bin\Debug\net7.0\Movies_Flight.exe
+C:\AzureDev_Repos\Interns\Vinay\Movies_Flight\Movies_Flight\bin\Debug\net7.0\Movies_Flight.deps.json
+C:\AzureDev_Repos\Interns\Vinay\Movies_Flight\Movies_Flight\bin\Debug\net7.0\Movies_Flight.runtimeconfig.json
+C:\AzureDev_Repos\Interns\Vinay\Movies_Flight\Movies_Flight\bin\Debug\net7.0\Movies_Flight.dll
+C:\AzureDev_Repos\Interns\Vinay\Movies_Flight\Movies_Flight\bin\Debug\net7.0\Movies_Flight.pdb
+C:\AzureDev_Repos\Interns\Vinay\Movies_Flight\Movies_Flight\obj\Debug\net7.0\Movies_Flight.csproj.AssemblyReference.cache
+C:\AzureDev_Repos\Interns\Vinay\Movies_Flight\Movies_Flight\obj\Debug\net7.0\Movies_Flight.GeneratedMSBuildEditorConfig.editorconfig
+C:\AzureDev_Repos\Interns\Vinay\Movies_Flight\Movies_Flight\obj\Debug\net7.0\Movies_Flight.AssemblyInfoInputs.cache
+C:\AzureDev_Repos\Interns\Vinay\Movies_Flight\Movies_Flight\obj\Debug\net7.0\Movies_Flight.AssemblyInfo.cs
+C:\AzureDev_Repos\Interns\Vinay\Movies_Flight\Movies_Flight\obj\Debug\net7.0\Movies_Flight.csproj.CoreCompileInputs.cache
+C:\AzureDev_Repos\Interns\Vinay\Movies_Flight\Movies_Flight\obj\Debug\net7.0\Movies_Flight.dll
+C:\AzureDev_Repos\Interns\Vinay\Movies_Flight\Movies_Flight\obj\Debug\net7.0\refint\Movies_Flight.dll
+C:\AzureDev_Repos\Interns\Vinay\Movies_Flight\Movies_Flight\obj\Debug\net7.0\Movies_Flight.pdb
+C:\AzureDev_Repos\Interns\Vinay\Movies_Flight\Movies_Flight\obj\Debug\net7.0\Movies_Flight.genruntimeconfig.cache
+C:\AzureDev_Repos\Interns\Vinay\Movies_Flight\Movies_Flight\obj\Debug\net7.0\ref\Movies_Flight.dll

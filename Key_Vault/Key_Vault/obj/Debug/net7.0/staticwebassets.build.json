@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "e/BYx0WuoOFBnTCIKE7bseH5xOlA71ARbeKwObUnCXk=",
+  "Source": "Key_Vault",
+  "BasePath": "_content/Key_Vault",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

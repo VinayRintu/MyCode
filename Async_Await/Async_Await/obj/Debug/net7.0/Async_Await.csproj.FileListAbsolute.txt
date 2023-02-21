@@ -1,0 +1,15 @@
+C:\AzureDev_Repos\Interns\Vinay\Async_Await\Async_Await\bin\Debug\net7.0\Async_Await.exe
+C:\AzureDev_Repos\Interns\Vinay\Async_Await\Async_Await\bin\Debug\net7.0\Async_Await.deps.json
+C:\AzureDev_Repos\Interns\Vinay\Async_Await\Async_Await\bin\Debug\net7.0\Async_Await.runtimeconfig.json
+C:\AzureDev_Repos\Interns\Vinay\Async_Await\Async_Await\bin\Debug\net7.0\Async_Await.dll
+C:\AzureDev_Repos\Interns\Vinay\Async_Await\Async_Await\bin\Debug\net7.0\Async_Await.pdb
+C:\AzureDev_Repos\Interns\Vinay\Async_Await\Async_Await\obj\Debug\net7.0\Async_Await.csproj.AssemblyReference.cache
+C:\AzureDev_Repos\Interns\Vinay\Async_Await\Async_Await\obj\Debug\net7.0\Async_Await.GeneratedMSBuildEditorConfig.editorconfig
+C:\AzureDev_Repos\Interns\Vinay\Async_Await\Async_Await\obj\Debug\net7.0\Async_Await.AssemblyInfoInputs.cache
+C:\AzureDev_Repos\Interns\Vinay\Async_Await\Async_Await\obj\Debug\net7.0\Async_Await.AssemblyInfo.cs
+C:\AzureDev_Repos\Interns\Vinay\Async_Await\Async_Await\obj\Debug\net7.0\Async_Await.csproj.CoreCompileInputs.cache
+C:\AzureDev_Repos\Interns\Vinay\Async_Await\Async_Await\obj\Debug\net7.0\Async_Await.dll
+C:\AzureDev_Repos\Interns\Vinay\Async_Await\Async_Await\obj\Debug\net7.0\refint\Async_Await.dll
+C:\AzureDev_Repos\Interns\Vinay\Async_Await\Async_Await\obj\Debug\net7.0\Async_Await.pdb
+C:\AzureDev_Repos\Interns\Vinay\Async_Await\Async_Await\obj\Debug\net7.0\Async_Await.genruntimeconfig.cache
+C:\AzureDev_Repos\Interns\Vinay\Async_Await\Async_Await\obj\Debug\net7.0\ref\Async_Await.dll

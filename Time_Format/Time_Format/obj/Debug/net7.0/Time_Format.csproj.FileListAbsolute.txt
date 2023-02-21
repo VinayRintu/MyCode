@@ -1,0 +1,15 @@
+C:\AzureDev_Repos\Interns\Vinay\Time_Format\Time_Format\bin\Debug\net7.0\Time_Format.exe
+C:\AzureDev_Repos\Interns\Vinay\Time_Format\Time_Format\bin\Debug\net7.0\Time_Format.deps.json
+C:\AzureDev_Repos\Interns\Vinay\Time_Format\Time_Format\bin\Debug\net7.0\Time_Format.runtimeconfig.json
+C:\AzureDev_Repos\Interns\Vinay\Time_Format\Time_Format\bin\Debug\net7.0\Time_Format.dll
+C:\AzureDev_Repos\Interns\Vinay\Time_Format\Time_Format\bin\Debug\net7.0\Time_Format.pdb
+C:\AzureDev_Repos\Interns\Vinay\Time_Format\Time_Format\obj\Debug\net7.0\Time_Format.csproj.AssemblyReference.cache
+C:\AzureDev_Repos\Interns\Vinay\Time_Format\Time_Format\obj\Debug\net7.0\Time_Format.GeneratedMSBuildEditorConfig.editorconfig
+C:\AzureDev_Repos\Interns\Vinay\Time_Format\Time_Format\obj\Debug\net7.0\Time_Format.AssemblyInfoInputs.cache
+C:\AzureDev_Repos\Interns\Vinay\Time_Format\Time_Format\obj\Debug\net7.0\Time_Format.AssemblyInfo.cs
+C:\AzureDev_Repos\Interns\Vinay\Time_Format\Time_Format\obj\Debug\net7.0\Time_Format.csproj.CoreCompileInputs.cache
+C:\AzureDev_Repos\Interns\Vinay\Time_Format\Time_Format\obj\Debug\net7.0\Time_Format.dll
+C:\AzureDev_Repos\Interns\Vinay\Time_Format\Time_Format\obj\Debug\net7.0\refint\Time_Format.dll
+C:\AzureDev_Repos\Interns\Vinay\Time_Format\Time_Format\obj\Debug\net7.0\Time_Format.pdb
+C:\AzureDev_Repos\Interns\Vinay\Time_Format\Time_Format\obj\Debug\net7.0\Time_Format.genruntimeconfig.cache
+C:\AzureDev_Repos\Interns\Vinay\Time_Format\Time_Format\obj\Debug\net7.0\ref\Time_Format.dll

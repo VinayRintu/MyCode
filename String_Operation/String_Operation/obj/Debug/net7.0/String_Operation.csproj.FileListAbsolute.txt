@@ -1,0 +1,15 @@
+C:\AzureDev_Repos\Interns\Vinay\String_Operation\String_Operation\bin\Debug\net7.0\String_Operation.exe
+C:\AzureDev_Repos\Interns\Vinay\String_Operation\String_Operation\bin\Debug\net7.0\String_Operation.deps.json
+C:\AzureDev_Repos\Interns\Vinay\String_Operation\String_Operation\bin\Debug\net7.0\String_Operation.runtimeconfig.json
+C:\AzureDev_Repos\Interns\Vinay\String_Operation\String_Operation\bin\Debug\net7.0\String_Operation.dll
+C:\AzureDev_Repos\Interns\Vinay\String_Operation\String_Operation\bin\Debug\net7.0\String_Operation.pdb
+C:\AzureDev_Repos\Interns\Vinay\String_Operation\String_Operation\obj\Debug\net7.0\String_Operation.csproj.AssemblyReference.cache
+C:\AzureDev_Repos\Interns\Vinay\String_Operation\String_Operation\obj\Debug\net7.0\String_Operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\AzureDev_Repos\Interns\Vinay\String_Operation\String_Operation\obj\Debug\net7.0\String_Operation.AssemblyInfoInputs.cache
+C:\AzureDev_Repos\Interns\Vinay\String_Operation\String_Operation\obj\Debug\net7.0\String_Operation.AssemblyInfo.cs
+C:\AzureDev_Repos\Interns\Vinay\String_Operation\String_Operation\obj\Debug\net7.0\String_Operation.csproj.CoreCompileInputs.cache
+C:\AzureDev_Repos\Interns\Vinay\String_Operation\String_Operation\obj\Debug\net7.0\String_Operation.dll
+C:\AzureDev_Repos\Interns\Vinay\String_Operation\String_Operation\obj\Debug\net7.0\refint\String_Operation.dll
+C:\AzureDev_Repos\Interns\Vinay\String_Operation\String_Operation\obj\Debug\net7.0\String_Operation.pdb
+C:\AzureDev_Repos\Interns\Vinay\String_Operation\String_Operation\obj\Debug\net7.0\String_Operation.genruntimeconfig.cache
+C:\AzureDev_Repos\Interns\Vinay\String_Operation\String_Operation\obj\Debug\net7.0\ref\String_Operation.dll

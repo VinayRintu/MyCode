@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEbApi_One_to_Many_Relational", "WEbApi_One_to_Many_Relational\WEbApi_One_to_Many_Relational.csproj", "{1255C072-CFB7-4EAB-84C4-40FCD23F55BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1255C072-CFB7-4EAB-84C4-40FCD23F55BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1255C072-CFB7-4EAB-84C4-40FCD23F55BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1255C072-CFB7-4EAB-84C4-40FCD23F55BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1255C072-CFB7-4EAB-84C4-40FCD23F55BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABE2F4BA-AF2E-48CC-8A35-3FAB9A9F714E}
+	EndGlobalSection
+EndGlobal

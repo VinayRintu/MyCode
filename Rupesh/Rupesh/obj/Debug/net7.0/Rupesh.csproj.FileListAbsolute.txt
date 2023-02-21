@@ -1,0 +1,15 @@
+C:\AzureDev_Repos\Interns\Vinay\Rupesh\Rupesh\bin\Debug\net7.0\Rupesh.exe
+C:\AzureDev_Repos\Interns\Vinay\Rupesh\Rupesh\bin\Debug\net7.0\Rupesh.deps.json
+C:\AzureDev_Repos\Interns\Vinay\Rupesh\Rupesh\bin\Debug\net7.0\Rupesh.runtimeconfig.json
+C:\AzureDev_Repos\Interns\Vinay\Rupesh\Rupesh\bin\Debug\net7.0\Rupesh.dll
+C:\AzureDev_Repos\Interns\Vinay\Rupesh\Rupesh\bin\Debug\net7.0\Rupesh.pdb
+C:\AzureDev_Repos\Interns\Vinay\Rupesh\Rupesh\obj\Debug\net7.0\Rupesh.csproj.AssemblyReference.cache
+C:\AzureDev_Repos\Interns\Vinay\Rupesh\Rupesh\obj\Debug\net7.0\Rupesh.GeneratedMSBuildEditorConfig.editorconfig
+C:\AzureDev_Repos\Interns\Vinay\Rupesh\Rupesh\obj\Debug\net7.0\Rupesh.AssemblyInfoInputs.cache
+C:\AzureDev_Repos\Interns\Vinay\Rupesh\Rupesh\obj\Debug\net7.0\Rupesh.AssemblyInfo.cs
+C:\AzureDev_Repos\Interns\Vinay\Rupesh\Rupesh\obj\Debug\net7.0\Rupesh.csproj.CoreCompileInputs.cache
+C:\AzureDev_Repos\Interns\Vinay\Rupesh\Rupesh\obj\Debug\net7.0\Rupesh.dll
+C:\AzureDev_Repos\Interns\Vinay\Rupesh\Rupesh\obj\Debug\net7.0\refint\Rupesh.dll
+C:\AzureDev_Repos\Interns\Vinay\Rupesh\Rupesh\obj\Debug\net7.0\Rupesh.pdb
+C:\AzureDev_Repos\Interns\Vinay\Rupesh\Rupesh\obj\Debug\net7.0\Rupesh.genruntimeconfig.cache
+C:\AzureDev_Repos\Interns\Vinay\Rupesh\Rupesh\obj\Debug\net7.0\ref\Rupesh.dll

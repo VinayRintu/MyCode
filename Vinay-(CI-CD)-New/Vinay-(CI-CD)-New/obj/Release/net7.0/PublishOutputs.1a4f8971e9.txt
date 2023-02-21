@@ -1,0 +1,12 @@
+C:\AzureDev_Repos\Interns\Vinay\Vinay-(CI-CD)-New\Vinay-(CI-CD)-New\obj\Release\net7.0\PubTmp\Out\Vinay-(CI-CD)-New.exe
+C:\AzureDev_Repos\Interns\Vinay\Vinay-(CI-CD)-New\Vinay-(CI-CD)-New\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\AzureDev_Repos\Interns\Vinay\Vinay-(CI-CD)-New\Vinay-(CI-CD)-New\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\AzureDev_Repos\Interns\Vinay\Vinay-(CI-CD)-New\Vinay-(CI-CD)-New\obj\Release\net7.0\PubTmp\Out\Vinay-(CI-CD)-New.dll
+C:\AzureDev_Repos\Interns\Vinay\Vinay-(CI-CD)-New\Vinay-(CI-CD)-New\obj\Release\net7.0\PubTmp\Out\Vinay-(CI-CD)-New.deps.json
+C:\AzureDev_Repos\Interns\Vinay\Vinay-(CI-CD)-New\Vinay-(CI-CD)-New\obj\Release\net7.0\PubTmp\Out\Vinay-(CI-CD)-New.runtimeconfig.json
+C:\AzureDev_Repos\Interns\Vinay\Vinay-(CI-CD)-New\Vinay-(CI-CD)-New\obj\Release\net7.0\PubTmp\Out\Vinay-(CI-CD)-New.pdb
+C:\AzureDev_Repos\Interns\Vinay\Vinay-(CI-CD)-New\Vinay-(CI-CD)-New\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\AzureDev_Repos\Interns\Vinay\Vinay-(CI-CD)-New\Vinay-(CI-CD)-New\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\AzureDev_Repos\Interns\Vinay\Vinay-(CI-CD)-New\Vinay-(CI-CD)-New\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\AzureDev_Repos\Interns\Vinay\Vinay-(CI-CD)-New\Vinay-(CI-CD)-New\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\AzureDev_Repos\Interns\Vinay\Vinay-(CI-CD)-New\Vinay-(CI-CD)-New\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,14 @@
+C:\AzureDev_Repos\Interns\Vinay\Many_To_Many_Three_Tier\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\AzureDev_Repos\Interns\Vinay\Many_To_Many_Three_Tier\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\AzureDev_Repos\Interns\Vinay\Many_To_Many_Three_Tier\DAL\bin\Debug\net7.0\DAL.dll
+C:\AzureDev_Repos\Interns\Vinay\Many_To_Many_Three_Tier\DAL\bin\Debug\net7.0\DAL.pdb
+C:\AzureDev_Repos\Interns\Vinay\Many_To_Many_Three_Tier\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\AzureDev_Repos\Interns\Vinay\Many_To_Many_Three_Tier\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\AzureDev_Repos\Interns\Vinay\Many_To_Many_Three_Tier\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\AzureDev_Repos\Interns\Vinay\Many_To_Many_Three_Tier\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\AzureDev_Repos\Interns\Vinay\Many_To_Many_Three_Tier\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\AzureDev_Repos\Interns\Vinay\Many_To_Many_Three_Tier\DAL\obj\Debug\net7.0\DAL.dll
+C:\AzureDev_Repos\Interns\Vinay\Many_To_Many_Three_Tier\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\AzureDev_Repos\Interns\Vinay\Many_To_Many_Three_Tier\DAL\obj\Debug\net7.0\DAL.pdb
+C:\AzureDev_Repos\Interns\Vinay\Many_To_Many_Three_Tier\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\AzureDev_Repos\Interns\Vinay\Many_To_Many_Three_Tier\DAL\obj\Debug\net7.0\ref\DAL.dll

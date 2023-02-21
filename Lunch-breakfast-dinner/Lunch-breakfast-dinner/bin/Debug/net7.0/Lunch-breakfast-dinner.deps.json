@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Lunch-breakfast-dinner/1.0.0": {
+        "runtime": {
+          "Lunch-breakfast-dinner.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lunch-breakfast-dinner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

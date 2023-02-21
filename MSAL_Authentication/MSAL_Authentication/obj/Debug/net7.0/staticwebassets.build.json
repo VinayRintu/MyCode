@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "c3HblHvqKNoNzeGxAGus7+udQTGckQSPOcA6rKbsdoo=",
+  "Source": "MSAL_Authentication",
+  "BasePath": "_content/MSAL_Authentication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

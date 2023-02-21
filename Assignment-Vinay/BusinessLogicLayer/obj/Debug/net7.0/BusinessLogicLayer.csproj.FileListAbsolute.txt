@@ -1,0 +1,15 @@
+C:\AzureDev_Repos\Interns\Vinay\Assignment-Vinay\BusinessLogicLayer\bin\Debug\net7.0\BusinessLogicLayer.deps.json
+C:\AzureDev_Repos\Interns\Vinay\Assignment-Vinay\BusinessLogicLayer\bin\Debug\net7.0\BusinessLogicLayer.dll
+C:\AzureDev_Repos\Interns\Vinay\Assignment-Vinay\BusinessLogicLayer\bin\Debug\net7.0\BusinessLogicLayer.pdb
+C:\AzureDev_Repos\Interns\Vinay\Assignment-Vinay\BusinessLogicLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\AzureDev_Repos\Interns\Vinay\Assignment-Vinay\BusinessLogicLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\AzureDev_Repos\Interns\Vinay\Assignment-Vinay\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\AzureDev_Repos\Interns\Vinay\Assignment-Vinay\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\AzureDev_Repos\Interns\Vinay\Assignment-Vinay\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\AzureDev_Repos\Interns\Vinay\Assignment-Vinay\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\AzureDev_Repos\Interns\Vinay\Assignment-Vinay\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\AzureDev_Repos\Interns\Vinay\Assignment-Vinay\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.csproj.CopyComplete
+C:\AzureDev_Repos\Interns\Vinay\Assignment-Vinay\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.dll
+C:\AzureDev_Repos\Interns\Vinay\Assignment-Vinay\BusinessLogicLayer\obj\Debug\net7.0\refint\BusinessLogicLayer.dll
+C:\AzureDev_Repos\Interns\Vinay\Assignment-Vinay\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.pdb
+C:\AzureDev_Repos\Interns\Vinay\Assignment-Vinay\BusinessLogicLayer\obj\Debug\net7.0\ref\BusinessLogicLayer.dll
