@@ -1,0 +1,14 @@
+C:\AzureDev_Repos\Interns\Vinay\AllConcepts\Data_Access_Layer\bin\Debug\net7.0\Data_Access_Layer.deps.json
+C:\AzureDev_Repos\Interns\Vinay\AllConcepts\Data_Access_Layer\bin\Debug\net7.0\Data_Access_Layer.runtimeconfig.json
+C:\AzureDev_Repos\Interns\Vinay\AllConcepts\Data_Access_Layer\bin\Debug\net7.0\Data_Access_Layer.dll
+C:\AzureDev_Repos\Interns\Vinay\AllConcepts\Data_Access_Layer\bin\Debug\net7.0\Data_Access_Layer.pdb
+C:\AzureDev_Repos\Interns\Vinay\AllConcepts\Data_Access_Layer\obj\Debug\net7.0\Data_Access_Layer.csproj.AssemblyReference.cache
+C:\AzureDev_Repos\Interns\Vinay\AllConcepts\Data_Access_Layer\obj\Debug\net7.0\Data_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\AzureDev_Repos\Interns\Vinay\AllConcepts\Data_Access_Layer\obj\Debug\net7.0\Data_Access_Layer.AssemblyInfoInputs.cache
+C:\AzureDev_Repos\Interns\Vinay\AllConcepts\Data_Access_Layer\obj\Debug\net7.0\Data_Access_Layer.AssemblyInfo.cs
+C:\AzureDev_Repos\Interns\Vinay\AllConcepts\Data_Access_Layer\obj\Debug\net7.0\Data_Access_Layer.csproj.CoreCompileInputs.cache
+C:\AzureDev_Repos\Interns\Vinay\AllConcepts\Data_Access_Layer\obj\Debug\net7.0\Data_Access_Layer.dll
+C:\AzureDev_Repos\Interns\Vinay\AllConcepts\Data_Access_Layer\obj\Debug\net7.0\refint\Data_Access_Layer.dll
+C:\AzureDev_Repos\Interns\Vinay\AllConcepts\Data_Access_Layer\obj\Debug\net7.0\Data_Access_Layer.pdb
+C:\AzureDev_Repos\Interns\Vinay\AllConcepts\Data_Access_Layer\obj\Debug\net7.0\Data_Access_Layer.genruntimeconfig.cache
+C:\AzureDev_Repos\Interns\Vinay\AllConcepts\Data_Access_Layer\obj\Debug\net7.0\ref\Data_Access_Layer.dll
